@@ -1,5 +1,6 @@
 # React Youtube Browser
 A Simple youtube browser using react
-``ssh
+```sh
 npm install
 npm start
+```
